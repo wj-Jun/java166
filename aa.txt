@@ -1,9 +1,10 @@
 public static void main(String[] agrs){
 	System.out.println("holle word");
-	for(int i =0 ; i<9 i++){
-		for(int j =1; j<=i; i++ ){
-		System.out.println(i*j"+"(i+j)"+\")
+	for(int i =01; i<=9 i++){
+	     for(int j =1; j<=i; j++ ){
+                         System.out.print(j+"*"+i+"="+(i*j)+"\t")
 		}
+	System.out.println();	
 	}
 	
 	
